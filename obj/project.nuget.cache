@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zx5gYiQJPkY/gXvbkj+zvZfN83TvlL4z7UXdudE+ugt2uj4ZwWYGvQFqN7LHzOGDxkQ9WfC96/P9p8VIG7eThA==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\Temp\\MyAPI\\MyAPI.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\50036255\\.nuget\\packages\\ironxl.excel\\2021.9.0\\ironxl.excel.2021.9.0.nupkg.sha512",
+    "D:\\Users\\50036255\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\Users\\50036255\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Users\\50036255\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "D:\\Users\\50036255\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "D:\\Users\\50036255\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "D:\\Users\\50036255\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
